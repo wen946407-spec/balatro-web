@@ -1,0 +1,27 @@
+:root {
+  --color-table: #2d5a3d;
+  --color-accent: #e8682a;
+  --color-discard: #a83232;
+  --color-gold: #d4a017;
+  --color-card-red: #d33f3f;
+  --color-card-bg: #fbfaf7;
+  --color-score: #5dd67a;
+  --radius-card: 12px;
+  --radius-btn: 999px;
+  --ease-card: 200ms ease;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #1a1a2e;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-family: -apple-system, 'PingFang SC', 'Microsoft YaHei', 'Helvetica Neue', sans-serif;
+  position: relative;
+}
