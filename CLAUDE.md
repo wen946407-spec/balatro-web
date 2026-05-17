@@ -15,7 +15,7 @@
 | 路径 | 说明 |
 |------|------|
 | `index.html` | 游戏全部逻辑，CSS 变量定义在 `:root`，JS 全局状态在 `state` 对象 |
-| `balatro-vue/` | Vue 3 + Vite 重构版，未来对接 Tauri 跨端 |
+| `v2.0-vue/` | Vue 3 + Vite 重构版（v2.0），未来对接 Tauri 跨端 |
 | `docs/PRD.html` | 产品需求文档，包含玩法规则、牌型计分表、验收 Checklist |
 | `docs/DESIGN.html` | 视觉设计规范，包含 Design Tokens、卡牌组件、游戏主界面 mock |
 
